@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="left">Hello 👋 !! I'm Onuh Chinecherem</p>
 
-<!--
-**Niracandy/Niracandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Welcome to My GitHub 👋<br>A Data Analyst with a background in Human Physiology and specialized training in Business Intelligence. Passionate about transforming raw data into actionable insights that support decision-making and business growth.<br><br>With tools like Excel, SQL, and Power BI, I analyze trends, build interactive dashboards, and communicate insights through clear data storytelling.<br><br>What I Do Best<br>Turning messy data into clean, structured, and usable formats.<br><br>Creating clear, visual dashboards that simplify complex information.<br><br>Identifying patterns and trends to support business decisions.<br><br>Automating reports to improve efficiency and reduce manual work.<br><br>Communicating insights in a way that’s easy to understand and apply.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###
+
+<p align="left">Tech Tools</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<p align="left">Contact me</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/onuh-chinecherem-944bab324" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Chinechere84764" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/digital_with_nira" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/2349060777306" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/nira.candy.9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="onuhchinecherem123@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="onuhchinecherem123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 -->
