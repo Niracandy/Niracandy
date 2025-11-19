@@ -26,24 +26,33 @@
 
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" height="20" style="vertical-align: middle; padding-right: 10px;" />
-  <span style="color:#1f6feb;">Excel Projects</span>
+  <a href="https://github.com/topics/excel" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" height="20" alt="Excel Logo" style="vertical-align: middle; padding-right: 6px;" />
+    <span style="color: #1f6feb;">Excel Projects</span>
+  </a>
 </p>
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="20" style="vertical-align: middle; padding-right: 10px;" />
-  <span style="color:#1f6feb;">Power BI Projects</span>
+  <a href="https://github.com/topics/power-bi" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="20" alt="Power BI Logo" style="vertical-align: middle; padding-right: 6px;" />
+    <span style="color: #1f6feb;">Power BI Projects</span>
+  </a>
 </p>
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="20" style="vertical-align: middle; padding-right: 10px;" />
-  <span style="color:#1f6feb;">Tableau Projects</span>
+  <a href="https://github.com/topics/tableau-projects" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="20" alt="Tableau Logo" style="vertical-align: middle; padding-right: 6px;" />
+    <span style="color: #1f6feb;">Tableau Projects</span>
+  </a>
 </p>
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" height="20" style="vertical-align: middle; padding-right: 10px;" />
-  <span style="color:#1f6feb;">SQL Projects</span>
+  <a href="https://github.com/topics/sql" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" height="20" alt="SQL Logo" style="vertical-align: middle; padding-right: 6px;" />
+    <span style="color: #1f6feb;">SQL Projects</span>
+  </a>
 </p>
+
 
  ###
  
@@ -81,6 +90,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="40" alt="gmail logo"  style="padding-right: 8px;" />
   </a>
 </div>
-###
-###
-###
+
+
