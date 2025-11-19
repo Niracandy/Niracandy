@@ -11,47 +11,76 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
-  
   <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" height="20" alt="Excel logo"  />
-  
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="20" alt="Power BI logo"  />
-  
-  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="20" alt="Tableau logo"  />
-  
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="20" alt="Tableau logo"  />  
   <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" height="20" alt="SQL logo"  />
 </div> 
  
 
 
 ###
+<p align="left">Project By tools</p>
 
+###
+
+
+<p>
+  <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" height="20" style="vertical-align: middle; padding-right: 10px;" />
+  <span style="color:#1f6feb;">Excel Projects</span>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="20" style="vertical-align: middle; padding-right: 10px;" />
+  <span style="color:#1f6feb;">Power BI Projects</span>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="20" style="vertical-align: middle; padding-right: 10px;" />
+  <span style="color:#1f6feb;">Tableau Projects</span>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" height="20" style="vertical-align: middle; padding-right: 10px;" />
+  <span style="color:#1f6feb;">SQL Projects</span>
+</p>
+
+ ###
+ 
 <p align="left">Contact me</p>
 
 ###
 
+
 <div align="left">
   <a href="https://www.linkedin.com/in/onuh-chinecherem-944bab324" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="40" alt="linkedin logo"  style="padding-left: 8px;" />
+    
   </a>
   <a href="https://x.com/Chinechere84764" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="20" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="20" height="40" alt="twitter logo"  style="padding-right: 8px;" />
+    
   </a>
   <a href="https://www.instagram.com/digital_with_nira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="20" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="20" height="40" alt="instagram logo"  style="padding-left: 8px;" />
+    
   </a>
   <a href="https://wa.me/2349060777306" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="20" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="20" height="40" alt="whatsapp logo"  style="padding-right: 8px;" />
+    
   </a>
   <a href="https://www.facebook.com/nira.candy.9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="20" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="20" height="40" alt="facebook logo"  style="padding-right: 8px;" />
+    
   </a>
   <a href="onuhchinecherem123@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="20" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="20" height="40" alt="microsoft-outlook logo"  style="padding-right: 8px;" />
+    
   </a>
   <a href="onuhchinecherem123@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="40" alt="gmail logo"  style="padding-right: 8px;" />
   </a>
 </div>
-
+###
+###
 ###
