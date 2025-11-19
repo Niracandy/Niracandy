@@ -11,11 +11,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
+  
   <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" height="20" alt="Excel logo"  />
-  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="30" alt="Power BI logo"  />
-  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="30" alt="Tableau logo"  />
-  <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" height="30" alt="SQL logo"  />
+  
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="20" alt="Power BI logo"  />
+  
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="20" alt="Tableau logo"  />
+  
+  <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" height="20" alt="SQL logo"  />
 </div> 
  
 
