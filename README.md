@@ -26,7 +26,7 @@
 
 
 <p>
-  <a href="https://github.com/topics/excel" style="text-decoration: none;">
+  <a href="https://github.com/search?q=user:niracandy+topics:excel" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" height="20" alt="Excel Logo" style="vertical-align: middle; padding-right: 6px;" />
     <span style="color: #1f6feb;">Excel Projects</span>
   </a>
