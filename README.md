@@ -26,10 +26,14 @@
 
 
 <p>
-  <a href="https://github.com/search?q=user:Niracandy+topics:excel" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" height="20" alt="Excel Logo" style="vertical-align: middle; padding-right: 6px;" />
-    <span style="color: #1f6feb;">Excel Projects</span>
-  </a>
+<a href="https://github.com/search?q=user:Niracandy+topics:excel" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
+    <img 
+        src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" 
+        height="20" 
+        alt="Excel Logo"
+    />
+    <span style="color: #1f6feb; font-weight: 500;">Excel Projects</span>
+</a>
 </p>
 
 <p>
