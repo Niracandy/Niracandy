@@ -47,10 +47,15 @@
 </p>
 
 <p>
-  <a href="https://github.com/search?q=user:Niracandy+topics:sql" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" height="20" alt="SQL Logo" style="vertical-align: middle; padding-right: 6px;" />
-    <span style="color: #1f6feb;">SQL Projects</span>
-  </a>
+ <a href="https://github.com/search?q=user:Niracandy+topics:sql" target="_blank" style="text-decoration: none;">
+    <img 
+        src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" 
+        height="20" 
+        alt="SQL Projects" 
+        style="vertical-align: middle; padding-right: 6px;" 
+    />
+    View My SQL Projects
+</a>
 </p>
 
 
